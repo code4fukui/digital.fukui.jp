@@ -1,9 +1,8 @@
 # digital.fukui.jp
 
-http://digital.fukui.jp/
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-## Demo
-The project is hosted at the above URL.
+http://digital.fukui.jp/
 
 ## Features
 - Provides digital resources related to Fukui, Japan
@@ -11,6 +10,9 @@ The project is hosted at the above URL.
 
 ## Usage
 The website is hosted at the provided URL and can be accessed directly.
+
+## Data / API
+The project utilizes open data published by Fukui Prefecture.
 
 ## License
 The license for this project is not specified.
