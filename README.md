@@ -15,4 +15,4 @@ The website is hosted at the provided URL and can be accessed directly.
 The project utilizes open data published by Fukui Prefecture.
 
 ## License
-The license for this project is not specified.
+MIT License — see [LICENSE](LICENSE).
